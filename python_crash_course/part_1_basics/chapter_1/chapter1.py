@@ -58,4 +58,36 @@ most platforms so code deployment can be easy in conclusion its cross platforms
 and easily works on any modern enviornment or operating system present which makes
 this cross-platformness powerful. however th emethod to set up python on different
 operating systems may slightly vary as all operate and work differently.
+
+python usually doesnt come with windows so we need to install it from sources in 
+order to use it. to install first to to cmd and type python in lowercase to chekck
+if its already present , if it gives an error of unrecognized command then its not
+present, if >>> appear its present . to install python we should generally not rely
+on other sources like microsoft store and its better to go to the original python
+website to install it. if you want to install or update pyhon then go to python.org
+which is python's original website and see the downloads section amd download the
+installer for the latest version of python, after download is complete click and allow
+all permissions and then proceed through the installer and check the box - add python 
+to path which makes it easier to configure, read and proceed through the installer
+and finish the setup to install python on your system.
+
+to run python in terminal we can use text editors or code editors or go to 
+terminal and then type python or python3 for some systems to get the prompt
+and if you dont get then you should take a scan and find and check the version
+and use internet to figure it out.
+
+type some code like this:-
+print("Hello Python Interpreter!")
+and it should display:-
+Hello Python Interpreter!
+
+anytime you want to test a code snippet of python open a command window and start
+python terminal session or navigate to python terminal session. to exit from this 
+terminal python sessions an dget back to normal press ctrl+z and then press enter
+or just type exit() in the prompt and press enter to exit.
+
+vs code can be installed on your system easily and its a good editor to work on,
+to get vs code , we need ot get its installer for which navigate to their website
+code.visualstudio.com and the download the installer for youer respective operating
+system 
 '''
