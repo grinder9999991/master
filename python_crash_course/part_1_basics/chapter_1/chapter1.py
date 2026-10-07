@@ -43,8 +43,19 @@ customizable to some extent. it can be used for both simple and complex
 projects. for further larger compelx projects its good and it can be 
 easily installed on all modern operating systems,a nd it supports most
 programming languages including python, its simply a 'good' and powerful
-editor with lots of features. its the most famous too amound beginners
-but any other simply editor is also good and will do the job.
+editor with lots of features. its the most famous too amoung beginners
+but any other simple editor is also good and will do the job.
 
-
+python is a cross platofrm programming language meaning it run on all major 
+operating systems or environments basically it can function in all of most 
+of the operating systems or environments and open to many platforms meaning
+cross-platform and it easily functions on most of them. any python program 
+or script you write can be easily viewed edited or work up on in any modern
+system or environment containing the necessary resoucres like python and that's
+why is cross platform and one code can be used edited or work on or changed through
+multiple operating systems or devices which makes it powerful as it can run on
+most platforms so code deployment can be easy in conclusion its cross platforms
+and easily works on any modern enviornment or operating system present which makes
+this cross-platformness powerful. however th emethod to set up python on different
+operating systems may slightly vary as all operate and work differently.
 '''
