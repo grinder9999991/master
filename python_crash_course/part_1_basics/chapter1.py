@@ -230,5 +230,33 @@ with python installed you just need to know how to access the directory where th
 program file is stored. to try this make sure you know the directory where the file
 is stored properly 
 
-ok can use the command prompt for windows to execute open cmd from 
+ok you can use the command prompt for windows to execute open cmd from the panel 
+and then naviage to the directory you want to work in or execute using cd command
+which stands for change directory and is a cmd command used to navigate and change
+directiories and move through your file system using command prompt. further the command
+dir which stands for directory is a cmd command that lists all the files in. so to run a 
+file suppose hello world go to the direcotry or change the directory suppose the 
+directory is desktop then write cd Desktop which tells command prompt to change
+my current directory to Desktop and then you can enter prompt dir to see all the files
+in your current directory say desktop so it will list all files in the desktop in the 
+command window line by line and then you can again change your directory using cd to
+navigate to your work folder if there and then you can list all files and find yours
+then to run the python file you can type python hello_world.py or on some systems
+python3 hello_world.py where hello_world.py is your file name and then press enter
+to execute your program make sure your file name and current working directory is 
+correct and the file you wanna execute has the correct extension like .py in our
+case 
+
+to run your python file from terminal in linux and macOS its basically the same
+procedure as for windows just to list all files in these os enter ls which means
+list to list all files instead of dir and ls displays the name of all nonhidden
+files present in the directory . you can also naivage to a nested directory 
+directly like for ex cd Desktop\python_work instead of individual but both work
+the same.
+
+most of your programs you will run from the editor and it will run fine and most
+people do like this but as our programs get more and mroe complex and deep and
+big we might need to run some of our programs from a terminal and using the 
+terminal and having deep knowledge of the terminal is a key skill in programming
+as you can do good number of operations from it.
 '''
