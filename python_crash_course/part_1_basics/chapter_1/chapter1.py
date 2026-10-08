@@ -89,5 +89,51 @@ or just type exit() in the prompt and press enter to exit.
 vs code can be installed on your system easily and its a good editor to work on,
 to get vs code , we need ot get its installer for which navigate to their website
 code.visualstudio.com and the download the installer for youer respective operating
-system 
+system and continue through the installer and set up to install and start using it 
+
+python doesnt come by default or pre installed in the laest version of macOS
+so we will need to install it. python 2 was included on older version of macOS
+but that version is outdated and never to use outdated versions to avoid further
+problems. to check python 3 open a terminal window through applications - utilities 
+and terminal or any other way and type python3 and press enter , cancel any other 
+pop ups if the output shows suitable versions of python you are good to go and use
+python3 on macOS whenever using in terminal or your version for the os to recognize
+otherwise if there is an error then proceed to download and install from python.org
+and continue te installation and then check by opening terminal and typing python3
+and the prompt should appear. on newer macOS systems you may see % insead of $ sign
+as terminal prompt 
+
+to install vs code on macos again go on website and download installer and continue
+read and proceed through the installer and configuration to install and start using
+
+linux systems are desinged for programming so they are light fast simple and usually
+come with programming languages and sometimes even code editor so python should be
+already installed by default on most linux systems and the peoplr who write and maintain
+linux expect you to do your own programming an encourage programming. to check go to the
+terminal and enter python3 or related and if you see the interpreter its installed and 
+you can start writing code and in all terminaks when python is isntalled and we open the
+interpreter through terminal we see the version installed to exit press ctrl+d or enter
+exit() in the prompt and enter to return to the terminal 
+
+you can install vs code in linux through their website or their software center directly
+and start using it.
+
+to use python in vs code you need to do one last thing . vs code works with many different
+languages to get the most out of it for running reading writing and working you need to install
+the python extension click on the manage icon which look like a gear in the lower left corner
+in the menu that opens click on extensions (this is were you can install different extensions 
+useful or related or necessary for your work) and enter python in the search box and click the python
+extension the main provided my micrsoft and avoid clicking on any other extensions or tools because
+they are unnecessary and clash with other after clicking on original python extension find the install
+button and click on it and install any other important or necessary tools your system needs but only
+useful ones and continue and configure to complete it and ignore any other messages and figure all things
+out. this thing is only needed for vs code other code editors are simple and work simply and good.
+
+
+it takes a bit patience and time and work to install and set up your coding environment 
+in your systems but once it's installed you can start to code!
+
+
+
+
 '''
