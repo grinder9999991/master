@@ -178,5 +178,57 @@ the problem. check the traceback; it might give you a clue as to what the issue 
 preventing the program fromr running.
 step away from the computer and take a shport break and then try again multiple times until you
 finally get it and keep patience it can take some time but it will eventually get solved and try
-to think deeply to the root of the problem
+to think deeply to the root of the problem and all related factors
+start over again . this is a very useful trick and starting over again can clear all the past
+chaos or errors and you can even discover more thing or implement better solutions and prevent
+making mistakes you made previously and it provides a clean environment and you can write
+better code and just start over and do better you dont most of the time need to reinstall
+the software all over again but you can as in needed but recreating code file from scratch
+makes sense
+ask someone else to follow the steps they might do it correct and they might solve it as 
+they could notice things you missed to match carefully you can do this on your own too but
+taking help is also an option and tell them to follow the steps as you might have missed 
+some small thing that is preventing it from running but it is always better to do it alone
+after repepated attempts so you identify the error on your own and solve it
+we can refer online instructions and information for our content and see how its done
+and consider the steps and then follow the process and also find some additonal 
+instructions that may help solve the issue
+find someone else that knows python or is familiar with the issue to help you
+fix the problem as you max unexpectedly find someone who knows and can help
+set up the thing or solve the issue 
+take help from ai or online resouces or official websites and guides or documentation
+instead of searching randomly and navigating through these official documentation or
+information or guides or manuals can give a bit hint or even solution to solve the issue
+and the issue might be also on open source websites and platforms where people discuss it
+and you can take the solution from these websites too
+you can also ask for help online and there are a number of resouces online and forumns
+and live chat sites where you can ask solution from people who have already worked
+through it and you can also suggest solutions for other problems and many people come to 
+these forumns or chats and help or give hints and solutions 
+
+never worry bothering experinced people as every programmer has been stuck at some point 
+and faced issues with the subject and most programmers are happy to help as long as you
+can clearly state why are you actually trying to do and what you have already tried
+and the results you are getting there is a good change someone might solve and fix it
+and as mentiond python community is veri freindly and welcoming to beginners
+
+python should run well on any modern computer. as it is cross platforms and mostly runs
+on all modern computers that has python installed. early setup issues can be frustrating
+but they are well worth sorting out as you get to face errors and learn more and confiure
+the thing by yourself (most of the times). once yu can get a simple program like
+hello_world.py running you are in a good position to start learning python and your 
+programming work will become more interesting and satifiying as the language processes
+as the language is simply good and you can make and do many interesting things by
+your own once after setting things are sorted up.
+
+you will run most of your programs directly in your text editor and do most of your
+writing building and work however its sometimes useful to run some programs or
+snippets directly from the terminal instead for various purposes like testing logic
+or isolating a code block or tracking etc for example you might want to run an
+existing program without opening it for editing. you can easily do this on any system
+with python installed you just need to know how to access the directory where the
+program file is stored. to try this make sure you know the directory where the file
+is stored properly 
+
+ok can use the command prompt for windows to execute open cmd from 
 '''
