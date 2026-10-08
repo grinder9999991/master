@@ -129,11 +129,54 @@ button and click on it and install any other important or necessary tools your s
 useful ones and continue and configure to complete it and ignore any other messages and figure all things
 out. this thing is only needed for vs code other code editors are simple and work simply and good.
 
-
 it takes a bit patience and time and work to install and set up your coding environment 
 in your systems but once it's installed you can start to code!
 
+before we start writing any program its better to keep it simple clean short and organized like
+keeping all files properly named and inside proper folder on a particular location or directory
+its better to use lowercase letters and underscores for spaces in file and folder names and it
+is better according to me to use only lowercase with underscores for everything until a special
+case because its simple clean short to the point and also becuase python uses these naming conventions
+its best to save all your work in 1 directory like desktop unless needed to save somewhere else 
+because it keeps all project and files and folders at one place and is easily accessible 
 
+to make the directory there are many steps but for here open vs code and close other useless tabs
+make a new file by clicking file --- new file or by prssing ctrl-n save the file into the folder
+and for other code edtiors its also similar and you can decide the folder stucture of your project
+or work directory as per need. th extension .py tells the editor that it is written in python and
+is a python file and .py extensions after files make and indiciate a python file specifically
+and helps the editor to run the program and read by the languages syntax and highlight code parts
 
+'''
+print("Hello Python World!")
+exit()
 
+'''
+to run a program in the editor we can click on run or press f5 or in some editors like vs code 
+its ctrl + f5 . this above code will output -
+Hello Python World!
+we will also see some additonal text or output that will have some significant details showing
+python interpreter that was used to ruhn the program its basically information realted to the 
+program and files.if we dont see this output somethign might have gone wrong or have been entered 
+wrong or set up wrong or executed wrong in the program. every character needs to be precise to 
+check and the lines too . is something like print() in capital . are both double quotes there
+in the correct place or the both the paranthesis are there at the correct place because programming
+languages excpect very precise and correct syntax and everyhting word by word line by line and 
+even character by character should match the rules and syntax and needs to be precise otherwise 
+you get errors from the interpreter and while the logic is on your control and if the program
+still not runs check on the internet and watch all details and break it down and slowly
+figure it out 
+
+if this code is not running there are many methods that can solve it . further are some which
+can solve this problem and are also general good solutions for any programming problem and provide
+generalized solutions to basic problems and this is called troubleshooting where you find and anaylse
+the problem to its root and solve it . 
+when a program contains a significant error related to rules or syntax or ant other subject
+python's interpreter catches it and displays a traceback which is an error report that python
+gives to you regarding the error and its details. python looks through the file and tries to find
+the problem. check the traceback; it might give you a clue as to what the issue is or what is
+preventing the program fromr running.
+step away from the computer and take a shport break and then try again multiple times until you
+finally get it and keep patience it can take some time but it will eventually get solved and try
+to think deeply to the root of the problem
 '''
