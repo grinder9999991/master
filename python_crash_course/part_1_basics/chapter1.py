@@ -258,5 +258,48 @@ most of your programs you will run from the editor and it will run fine and most
 people do like this but as our programs get more and mroe complex and deep and
 big we might need to run some of our programs from a terminal and using the 
 terminal and having deep knowledge of the terminal is a key skill in programming
-as you can do good number of operations from it.
+as you can do good number of operations from it. there are many for example to
+an existing program without opening it for editing.you can execute any program
+from the terminal as long as the language in our case python is installed and
+you just need to know where the program is and how to access the directory where
+the program to run is currently stored and while working like this or related 
+you should know your file and folder structure very well and all locations of 
+types of files and all sorts of info to avoid any potentials problems.
+
+to run programs from terminal is basically easy amd similar in all major operating
+systems like windows macOS and linux first you have to navigate into your working
+directory or where your code files are using cd which stands for change directory
+which is a command and write this and the directory name correctly like Desktop
+or any other and you can do this repeatedly until you reach liek cd Desktop and
+the prompt should show desktop then your further folders and so on and so forth
+or directly if you know the path you can do it in one go using forwardslash 
+like cd Desktop/python/work etc just navigate and type correctly after that on
+windows you can use the dir command which stands for directory which lists all the
+files and for macOS and linux there is the command ls wich stand for list and 
+shows all non-hidden files so you can be sure or check the names of the files
+and after navigating  you can simply type python and then your file name and 
+extension of the lanbguage in our case .py like for example python test_script.py
+or sometimes python3 test_script.py and then your program will execute so its 
+basically navigating and going in though the terminal and using python command
+and executing directly into the terminal without editing. this can be useful
+sometimes or many times as the work gets more complex and its good to know to work
+with terminal as using terminal is also a key skill and helps in coding
+
+python.org is the original website of python or the home page online
+(https://python.org) as this has most of the info related to python
+and we can find python docs here and python istself to download and the python
+community and basically the site has many different parts related to many
+different sectors of python so its good and can help and mostly all
+programming languages have websites to manage all sectors easily online
+
+its good to intentinally make mistakes soemtimes with working programs
+to get to know about more errors and learn more about how the language 
+behaves when used incorrectly or insuitably or just with errors or just
+simply to know how its working so its good to experiment around
+
+and its an good habit to think about new projects and ideas you can 
+make with your skills in our case programming and you can imagine
+endless thigns softwares or all other sorts of things you can make
+of your own with your skills and its good to do so after getting
+some skills to do something big
 '''
