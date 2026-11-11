@@ -9,4 +9,4 @@ core thing will be there and all raw work inside folders including even odd thin
 my notebook solved algorithms or diagrams etc and i will put just everything i come across and learn
 and i will push stuff in this repository daily and over time it will become a asset and a proof or 
 work and all information and everything will be here and this 1 repository will have everything i will
-do and its good to look over and see. THE GOAL IS TO BUILD AN EMPIRE
+do and its good to look over and see. THE GOAL IS PUT IN WORK AND BUILD
